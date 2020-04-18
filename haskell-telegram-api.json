@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/klappvisor/haskell-telegram-api",
+  "rev": "abbfd76c40f2783c113b660184a03cc94d58e751",
+  "date": "2019-08-31T23:04:53+01:00",
+  "sha256": "0mzhigdyj5jdwycmz587s05zp5c7wcf7njw3x866iln59kp0rgi3",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}
